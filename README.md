@@ -15,7 +15,7 @@
  
 ####  • Dê uma olhada em meu portfólio: 
   <div>
-  <a href="https://chitolina.github.io" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
+  <a href="https://chitodados.github.io/" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"_blank"></a> 
   <div> 
     
 ####  • Aqui você encontra meus certificados: 
